@@ -1,0 +1,29 @@
+{
+  "session": {
+    "sessionId": "SessionId.eacea7c5-1dc5-4a65-97a9-824e276eba28",
+    "application": {
+      "applicationId": "amzn1.ask.skill.250f8855-6d94-4c91-abb4-90d32c888239"
+    },
+    "attributes": {},
+    "user": {
+      "userId": "amzn1.ask.account.AGKNHM62BVQRJOGWHZZ32L2W7ZM7MT6UFFZH3UDLI7MU7QE2FTIWQYVHMSH4NPQN37VMYJ7FTR6NSESNNOS7J7WTYMVZ34WV46VARP47FOWQ6NZGROPZV72R3M2FKYBQSYBNCEMH5UDOWL76YTUF7JNYEDWJUCTU37DPSTXQHYMILTU6BL77JEFPJSPQZPEIKPSWV3SFAW2NMLI"
+    },
+    "new": true
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "EdwRequestId.09c836e9-d3db-4f4a-96b0-ef45a4634bff",
+    "locale": "en-US",
+    "timestamp": "2017-03-12T00:29:33Z",
+    "intent": {
+      "name": "TellStory",
+      "slots": {
+        "Princess": {
+          "name": "Princess",
+          "value": "Cinderella"
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}
